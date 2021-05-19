@@ -1,2 +1,2 @@
 # Data_Strata
-A data science competition project
+A data science competition project at NIT SILCHAR
